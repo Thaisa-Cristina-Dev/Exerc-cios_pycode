@@ -1,1 +1,1 @@
-# Exerc-cios_pycode
+# Exercicios_pycode
